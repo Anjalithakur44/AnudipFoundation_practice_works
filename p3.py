@@ -1,3 +1,4 @@
+# ENTER the cost price and selling price and find out whether its profit and loss
 cp=float(input("enter cost price="))
 sp=float(input("enter selling price="))
 if(cp<0 or sp<0):
