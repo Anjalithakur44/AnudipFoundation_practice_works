@@ -1,3 +1,4 @@
+# Enter a dictionary of student record and perform the given questions
 from tabulate import tabulate
 
 # Assuming the dictionaries are stored in a list named `table_dict`
